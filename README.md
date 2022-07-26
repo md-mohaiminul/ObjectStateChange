@@ -4,7 +4,7 @@ This is the imlementation of [submission (TarHeels)](https://arxiv.org/abs/2207.
 
 # Technical Report
 
-You can download the technical report of our submission from (here)[https://arxiv.org/abs/2207.11814].
+You can download the technical report of our submission from [here](https://arxiv.org/abs/2207.11814).
 
 # Steps to run the codebase
 
