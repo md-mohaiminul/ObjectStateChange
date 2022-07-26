@@ -1,6 +1,10 @@
 # Object State Change Classification
 
-This is the imlementation of submission called ``TarHeels" for the [Ego4D: Object State Change Classification Challenge](https://ego4d-data.org/docs/challenge/) at [1st Ego4D Workshop, CVPR 2022](https://sites.google.com/view/cvpr2022w-ego4d-epic/). We use a transformer-based video recognition model and leverage the [Divided Space-Time Attention mechanism](https://arxiv.org/abs/2102.05095) for classifying object state change in egocentric videos. Our submission achieves the second-best performance in the challenge.
+This is the imlementation of [submission (TarHeels)](https://arxiv.org/abs/2207.11814) for the [Ego4D: Object State Change Classification Challenge](https://ego4d-data.org/docs/challenge/) at [1st Ego4D Workshop, CVPR 2022](https://sites.google.com/view/cvpr2022w-ego4d-epic/). We use a transformer-based video recognition model and leverage the [Divided Space-Time Attention mechanism](https://arxiv.org/abs/2102.05095) for classifying object state change in egocentric videos. Our submission achieves the second-best performance in the challenge.
+
+# Technical Report
+
+You can download the technical report of our submission from (here)[https://arxiv.org/abs/2207.11814].
 
 # Steps to run the codebase
 
